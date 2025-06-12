@@ -1,8 +1,6 @@
 """
     File that defines the functionality for our Unity Catalog metadata assistant agent.
 """
-
-from typing import Optional
 from pydantic import BaseModel
 from pydantic_ai.agent import Agent
 from pydantic_ai.messages import ModelResponse, TextPart

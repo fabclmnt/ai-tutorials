@@ -1,0 +1,5 @@
+streamlit>1.45.0
+openai>1.85.0
+pydantic-ai>0.2.0
+databricks-sql-connector>4.0.0
+python-dotenv
