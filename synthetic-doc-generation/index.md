@@ -289,13 +289,6 @@ Error: Out of memory during embedding
 4. **Caching**: Cache frequent queries and embeddings
 5. **Error Handling**: Robust error handling and fallback mechanisms
 
-## 🤝 Contributing
-
-Found a bug or have an improvement idea? Feel free to:
-- Open an issue
-- Submit a pull request
-- Share your custom document types or agent configurations
-
 ## 📖 Additional Resources
 
 - [YData SDK Documentation](https://docs.sdk.ydata.ai/)

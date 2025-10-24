@@ -1,4 +1,4 @@
-name: sql-agent
+name: synthetic-doc-generation
 channels:
   - conda-forge
   - defaults

@@ -1,1 +1,25 @@
-ydata-sdk>3.0.7
+# Core dependencies for synthetic document generation
+ydata-sdk[text,docx]>=3.0.12
+
+# PDF processing and text extraction
+pypdf>=3.0.0
+
+# Embeddings and vector database (FAISS)
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.0
+numpy>=1.24.0
+
+# Text chunking and processing
+langchain>=0.1.0
+langchain-text-splitters>=0.0.1
+
+# AI Agent framework
+pydantic-ai>=0.0.14
+pydantic>=2.0.0
+
+# OpenAI integration (optional)
+openai>=1.0.0
+tiktoken>=0.5.0
+
+# Additional utilities
+pathlib2>=2.3.0
